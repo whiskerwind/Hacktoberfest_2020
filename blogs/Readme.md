@@ -31,5 +31,5 @@
 | GitLab | |
 | Dependabot | |
 | Circle CI | |
-| Kubernetes | |
+| [Kubernetes](Kubernetes.md) |[Asher W](https://github.com/whiskerwind) |
 
