@@ -2,8 +2,9 @@
 
 <p>Kubenetes is an open source system originally developed by google to aid developers in the automation of deploying and managing applications inside containers across multiple machines.
 </p>
+<p align="center">
 <img src="https://octoperf.com/img/blog/kraken-kubernetes-ingress-nginx-frontend/kubernetes.png" width="400">
-<caption>kubenetes logo</caption>
+</p>
 <h2>
 Introducing containers
 </h2>
